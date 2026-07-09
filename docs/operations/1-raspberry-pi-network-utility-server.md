@@ -39,11 +39,11 @@ The utility server supports the following functions:
 
 The Raspberry Pi utility server hosts several internal-only services, including DNS filtering, uptime monitoring, and host metrics.
 
-![Pi-hole dashboard showing DNS filtering and query visibility](https://github.com/khucker3d/raspberry-pi-network-utility-server-public/blob/main/images/Pi-hole.png)
+![Pi-hole dashboard showing DNS filtering and query visibility](https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/images/Pi-hole.png)
 
-![Uptime Kuma dashboard showing monitored infrastructure services](https://github.com/khucker3d/raspberry-pi-network-utility-server-public/blob/main/images/KumaUpDashboard.png)
+![Uptime Kuma dashboard showing monitored infrastructure services](https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/images/KumaUpDashboard.png)
 
-![Netdata dashboard showing utility server health metrics](https://github.com/khucker3d/raspberry-pi-network-utility-server-public/blob/main/images/NetData.png)
+![Netdata dashboard showing utility server health metrics](https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/images/NetData.png)
 
 ## Design Principles
 
