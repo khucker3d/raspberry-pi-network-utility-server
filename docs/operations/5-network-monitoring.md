@@ -42,7 +42,7 @@ Example monitored categories include:
 #### Monitoring Dashboard Example
 The monitoring dashboard provides a centralized view of internal service availability, including network devices, DNS services, infrastructure dashboards, and lab systems.
 
-![UpTime Kuma](https://github.com/khucker3d/raspberry-pi-network-utility-server-public/blob/main/images/KumaUpDashboard.png)
+![UpTime Kuma](https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/images/KumaUpDashboard.png)
 
 ### Host Health Monitoring
 
@@ -62,7 +62,7 @@ Example metrics include:
 
 Host-level metrics are used to monitor the utility server’s CPU, memory, disk, network, and system health.
 
-![Netdata dashboard showing utility server host metrics](https://github.com/khucker3d/raspberry-pi-network-utility-server-public/blob/main/images/NetData.png)
+![Netdata dashboard showing utility server host metrics](https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/images/NetData.png)
 
 ### DNS Visibility
 
@@ -80,7 +80,7 @@ Security-focused tools are used to collect and analyze security-relevant events 
 
 Security monitoring is handled separately from basic uptime monitoring. A security dashboard is used in the lab environment to review endpoint, file integrity, threat hunting, and vulnerability-related data.
 
-![Wazuh dashboard showing security monitoring categories](https://github.com/khucker3d/raspberry-pi-network-utility-server-public/blob/main/images/WazuhDashboard.png)
+![Wazuh dashboard showing security monitoring categories](https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/images/WazuhDashboard.png)
 
 ## High-Level Monitoring Architecture
 
@@ -139,7 +139,7 @@ Alerts should be tuned to reduce noise and focus on events that require action.
 
 Alert notifications are used to validate that service outages and recoveries are detected and reported through the expected notification channel.
 
-![Discord alert test showing service down and recovery notifications](https://github.com/khucker3d/raspberry-pi-network-utility-server-public/blob/main/images/DiscordNotification.png)
+![Discord alert test showing service down and recovery notifications](https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/images/DiscordNotification.png)
 
 ## Operational Workflow
 
