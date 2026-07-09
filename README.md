@@ -88,6 +88,6 @@ This public version intentionally omits sensitive implementation details, includ
 
 The purpose of this documentation is to demonstrate infrastructure design, operational planning, and security-aware administration without exposing the live environment.
 
-## [Operation Docs & Runbook Examples:](https://github.com/khucker3d/raspberry-pi-network-utility-server-public/tree/main/docs/operations)
+## [Operation Docs & Runbook Examples:](https://github.com/khucker3d/raspberry-pi-network-utility-server/tree/main/docs)
 **Documentation Scope:** This public repository contains a high-level, sanitized overview of the project. More detailed internal documentation exists separately, including step-by-step walkthroughs, configuration procedures, validation steps, troubleshooting notes, and operational runbooks. Sensitive environment-specific details have been intentionally excluded for security reasons.
 
