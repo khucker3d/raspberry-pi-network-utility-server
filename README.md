@@ -103,6 +103,8 @@ The purpose of this documentation is to demonstrate infrastructure design, opera
 - [Metrics Dashboard Down](https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/docs/runbooks/metrics-dashboard-down.md)
 - [Uptime Kuma Alert Response Runbooks](https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/docs/runbooks/uptime-kuma-alert-response.md)
 
-## Related Docs:
+---
+
+## Related Projects: 
 - [Enterprise Infrastructure Architecture](https://github.com/khucker3d/enterprise-infrastructure-architecture-public/blob/main/README.md)
 - [Home Network Hardware Heat Advisory Alert](https://github.com/khucker3d/home-network-hardware-heat-advisory-alert/edit/main/ReadMe.md)
