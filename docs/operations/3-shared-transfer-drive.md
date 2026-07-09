@@ -67,11 +67,11 @@ The shared transfer drive was validated from multiple trusted client operating s
 
 ### macOS Access Test
 
-![macOS Finder showing access to the shared transfer drive](https://github.com/khucker3d/raspberry-pi-network-utility-server-public/blob/main/images/TransferDrive_Mac.png)
+![macOS Finder showing access to the shared transfer drive](https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/images/TransferDrive_Mac.png)
 
 ### Windows Access Test
 
-![Windows File Explorer showing access to the shared transfer drive](https://github.com/khucker3d/raspberry-pi-network-utility-server-public/blob/main/images/TransferDrive_Windows.png)
+![Windows File Explorer showing access to the shared transfer drive](https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/images/TransferDrive_Windows.png)
 
 ## Storage Concepts Demonstrated
 
