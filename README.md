@@ -12,6 +12,12 @@ Designing, securing, monitoring, and documenting a Raspberry Pi-based internal u
 
 <p align="center">
 
+![](images/pi-hardware.jpg)
+
+</p>
+
+<p align="center">
+
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Project](https://img.shields.io/badge/Project-Network%20Utility%20Server-blue)
 ![Platform](https://img.shields.io/badge/Platform-Raspberry%20Pi%20OS-red)
