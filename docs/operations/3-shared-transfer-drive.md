@@ -64,11 +64,11 @@ The shared transfer drive supports:
 The shared transfer drive was validated from multiple trusted client operating systems to confirm that the file-sharing workflow works across platforms.
 
 ### macOS Access Test
-<img src="https://github.com/khucker3d/infra-raspberry-pi-network-utility-server/blob/main/images/shared-drive-mac.png" alt="macOS Finder showing access to the shared transfer drive" width="600">
+<img src="https://github.com/khucker3d/infra-raspberry-pi-network-utility-server/blob/main/images/shared-drive-mac.png" alt="macOS Finder showing access to the shared transfer drive" width="500">
 
 ### Windows Access Test
 
-<img src="https://github.com/khucker3d/infra-raspberry-pi-network-utility-server/blob/main/images/transfer-shared-pc.png" alt="Windows File Explorer showing access to the shared transfer drive" width="600">
+<img src="https://github.com/khucker3d/infra-raspberry-pi-network-utility-server/blob/main/images/transfer-shared-pc.png" alt="Windows File Explorer showing access to the shared transfer drive" width="500">
 
 ## Storage Concepts Demonstrated
 
